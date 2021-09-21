@@ -1,0 +1,13 @@
+E:\projects\CustomJsonConverter\CustomJsonConverter\bin\Debug\netcoreapp3.1\CustomJsonConverter.exe
+E:\projects\CustomJsonConverter\CustomJsonConverter\bin\Debug\netcoreapp3.1\CustomJsonConverter.deps.json
+E:\projects\CustomJsonConverter\CustomJsonConverter\bin\Debug\netcoreapp3.1\CustomJsonConverter.runtimeconfig.json
+E:\projects\CustomJsonConverter\CustomJsonConverter\bin\Debug\netcoreapp3.1\CustomJsonConverter.runtimeconfig.dev.json
+E:\projects\CustomJsonConverter\CustomJsonConverter\bin\Debug\netcoreapp3.1\CustomJsonConverter.dll
+E:\projects\CustomJsonConverter\CustomJsonConverter\bin\Debug\netcoreapp3.1\CustomJsonConverter.pdb
+E:\projects\CustomJsonConverter\CustomJsonConverter\obj\Debug\netcoreapp3.1\CustomJsonConverter.csprojAssemblyReference.cache
+E:\projects\CustomJsonConverter\CustomJsonConverter\obj\Debug\netcoreapp3.1\CustomJsonConverter.AssemblyInfoInputs.cache
+E:\projects\CustomJsonConverter\CustomJsonConverter\obj\Debug\netcoreapp3.1\CustomJsonConverter.AssemblyInfo.cs
+E:\projects\CustomJsonConverter\CustomJsonConverter\obj\Debug\netcoreapp3.1\CustomJsonConverter.csproj.CoreCompileInputs.cache
+E:\projects\CustomJsonConverter\CustomJsonConverter\obj\Debug\netcoreapp3.1\CustomJsonConverter.dll
+E:\projects\CustomJsonConverter\CustomJsonConverter\obj\Debug\netcoreapp3.1\CustomJsonConverter.pdb
+E:\projects\CustomJsonConverter\CustomJsonConverter\obj\Debug\netcoreapp3.1\CustomJsonConverter.genruntimeconfig.cache
