@@ -8,7 +8,10 @@ namespace CustomJsonConverter
     {
         static void Main(string[] args)
         {
+            System.Threading.Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo("en-US");
+
             UniversalJsonConverter converter = new UniversalJsonConverter();
+
             string result = converter.Serialize(new Product
             {
                 Id = 1,
@@ -42,6 +45,7 @@ namespace CustomJsonConverter
                     1,2,3,4
                 }
             });
+
             Console.WriteLine(result);
         }
     }

@@ -9,7 +9,8 @@ namespace CustomJsonConverter
         {
             try
             {
-                return serialize(item);
+                string result = serialize(item);
+                return result.Remove(result.Length-1);
             }
             catch(Exception e)
             {
