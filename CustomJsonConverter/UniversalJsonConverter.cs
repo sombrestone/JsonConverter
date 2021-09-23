@@ -37,7 +37,8 @@ namespace CustomJsonConverter
                 var props = obj.GetType().GetProperties();
                 foreach (var prop in props)
                 {
-                    result += new string('\t', nesting + 1) + ($"\"{prop.Name}\" : " +
+                    if (isIgnore(prop)) continue;
+                    result += new string('\t', nesting + 1) + ($"\"{getPropName(prop)}\" : " +
                         (isObject(prop.PropertyType) ?
                             "\n" + serialize(prop.GetValue(obj), nesting + 1)
                             :
@@ -45,6 +46,27 @@ namespace CustomJsonConverter
                 }
             }
             return result+= new string('\t', nesting) + (isArray ? "],\n" : "},\n");
+        }
+
+        private static bool isIgnore(PropertyInfo prop)
+        {
+            var attrs = prop.GetCustomAttributes(true);
+            foreach(var attr in attrs)
+            {
+                if (attr as JsonIgnoreAttribute!=null) return true;
+            }
+            return false;
+        }
+
+        private static string getPropName(PropertyInfo prop)
+        {
+            var attrs = prop.GetCustomAttributes(true);
+            foreach (var attr in attrs)
+            {
+                var nameAttr = attr as JsonNameAttribute;
+                if ((nameAttr != null)&&(nameAttr.Name !="")) return nameAttr.Name;
+            }
+            return prop.Name;
         }
 
         private static bool isObject(Type prop) => ((!prop.IsValueType) && (!isString(prop)));

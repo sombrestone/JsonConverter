@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jqv+apobumRFLL24wErTe8A63r2uRVQByBp+9Ur/Mjj9yftS8EvfLwgN9YH7pzV262wacfprJlzanfpT51hXxw==",
+  "dgSpecHash": "FvnfqcHVKJQDZrHC/u5e8R/Ndw47fPFsbH375d76P6tnbdiZBS2sMw/e+uqncnYJg7XeFv3HpspxdFEofam6gA==",
   "success": true,
-  "projectFilePath": "E:\\projects\\CustomJsonConverter\\CustomJsonConverter\\CustomJsonConverter.csproj",
+  "projectFilePath": "C:\\projects\\CustomJsonSerializer\\JsonConverter\\CustomJsonConverter\\CustomJsonConverter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

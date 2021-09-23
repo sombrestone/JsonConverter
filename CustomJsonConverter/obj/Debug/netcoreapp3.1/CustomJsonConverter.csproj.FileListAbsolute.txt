@@ -11,3 +11,16 @@ E:\projects\CustomJsonConverter\CustomJsonConverter\obj\Debug\netcoreapp3.1\Cust
 E:\projects\CustomJsonConverter\CustomJsonConverter\obj\Debug\netcoreapp3.1\CustomJsonConverter.dll
 E:\projects\CustomJsonConverter\CustomJsonConverter\obj\Debug\netcoreapp3.1\CustomJsonConverter.pdb
 E:\projects\CustomJsonConverter\CustomJsonConverter\obj\Debug\netcoreapp3.1\CustomJsonConverter.genruntimeconfig.cache
+C:\projects\CustomJsonSerializer\JsonConverter\CustomJsonConverter\bin\Debug\netcoreapp3.1\CustomJsonConverter.exe
+C:\projects\CustomJsonSerializer\JsonConverter\CustomJsonConverter\bin\Debug\netcoreapp3.1\CustomJsonConverter.deps.json
+C:\projects\CustomJsonSerializer\JsonConverter\CustomJsonConverter\bin\Debug\netcoreapp3.1\CustomJsonConverter.runtimeconfig.json
+C:\projects\CustomJsonSerializer\JsonConverter\CustomJsonConverter\bin\Debug\netcoreapp3.1\CustomJsonConverter.runtimeconfig.dev.json
+C:\projects\CustomJsonSerializer\JsonConverter\CustomJsonConverter\bin\Debug\netcoreapp3.1\CustomJsonConverter.dll
+C:\projects\CustomJsonSerializer\JsonConverter\CustomJsonConverter\bin\Debug\netcoreapp3.1\CustomJsonConverter.pdb
+C:\projects\CustomJsonSerializer\JsonConverter\CustomJsonConverter\obj\Debug\netcoreapp3.1\CustomJsonConverter.csprojAssemblyReference.cache
+C:\projects\CustomJsonSerializer\JsonConverter\CustomJsonConverter\obj\Debug\netcoreapp3.1\CustomJsonConverter.AssemblyInfoInputs.cache
+C:\projects\CustomJsonSerializer\JsonConverter\CustomJsonConverter\obj\Debug\netcoreapp3.1\CustomJsonConverter.AssemblyInfo.cs
+C:\projects\CustomJsonSerializer\JsonConverter\CustomJsonConverter\obj\Debug\netcoreapp3.1\CustomJsonConverter.csproj.CoreCompileInputs.cache
+C:\projects\CustomJsonSerializer\JsonConverter\CustomJsonConverter\obj\Debug\netcoreapp3.1\CustomJsonConverter.dll
+C:\projects\CustomJsonSerializer\JsonConverter\CustomJsonConverter\obj\Debug\netcoreapp3.1\CustomJsonConverter.pdb
+C:\projects\CustomJsonSerializer\JsonConverter\CustomJsonConverter\obj\Debug\netcoreapp3.1\CustomJsonConverter.genruntimeconfig.cache
